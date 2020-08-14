@@ -1,0 +1,392 @@
+ul[role="tree"] {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 120%;
+  user-select: none;
+}
+[role="group"] {
+}
+#myTable{
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+}
+#closed{
+	columns: 1;
+	-webkit-columns: 1;
+	-moz-columns: 1;
+}
+ [role="treeitem"].hla::before {
+	background-image: url('icons/hla.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].l4d::before {
+	background-image: url('icons/l4d.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].hl::before {
+	background-image: url('icons/hl.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].blsh::before {
+	background-image: url('icons/blsh.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].opfor::before {
+	background-image: url('icons/opfor.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].hl2::before {
+	background-image: url('icons/hl2.png');
+	background-size: 23px 20px;
+	display: block;
+	width: 23px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].p1::before {
+	background-image: url('icons/p1.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].p2::before {
+	background-image: url('icons/p2.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].cscz::before {
+	background-image: url('icons/cscz.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].csgo::before {
+	background-image: url('icons/csgo.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].l4d2::before {
+	background-image: url('icons/l4d2.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].css::before {
+	background-image: url('icons/css.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].artf::before {
+	background-image: url('icons/artf.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].dcg::before {
+	background-image: url('icons/dcg.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].asw::before {
+	background-image: url('icons/asw.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].frw::before {
+	background-image: url('icons/frw.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].und::before {
+	background-image: url('icons/und.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].cs::before {
+	background-image: url('icons/cs.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].tfc::before {
+	background-image: url('icons/tfc.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].tf2::before {
+	background-image: url('icons/tf2.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].dt2::before {
+	background-image: url('icons/dt2.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].dod::before {
+	background-image: url('icons/dod.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+ [role="treeitem"].dods::before {
+	background-image: url('icons/dods.png');
+	background-size: 20px 20px;
+	display: block;
+	width: 20px; 
+	height: 20px;
+	content:"";
+	position: relative;
+	top: 37px;
+	left: 14px;
+	margin-top: -20px;
+}
+[role="treeitem"][aria-expanded="false"] > ul {
+  display: none;
+}
+
+[role="treeitem"][aria-expanded="true"] > ul {
+  display: block;
+}
+
+[role="treeitem"][aria-expanded="false"] > span::before {
+  content: url(icons/closed.png);
+}
+[role="treeitem"][aria-expanded="true"] > span::before {
+  content: url(icons/open.png);
+}
+[role="treeitem"],
+[role="treeitem"] span {
+  width: 90%;
+ /*width: 16em;*/
+  margin: 0;
+  padding: 0.125em;
+  border: 2px transparent solid;
+  display: block;
+}
+[role="treeitem"].person::before {
+  content: url(icons/person.png);
+  margin-right: 3px;
+}
+.person {
+	width: 60%;
+}
+/* disable default keyboard focus styling for treeitems
+   Keyboard focus is styled with the following CSS */
+[role="treeitem"]:focus {
+  outline: 0;
+}
+
+[role="treeitem"].focus,
+[role="treeitem"] span.focus {
+  border-color: black;
+  background-color: #2B2B2B;
+}
+
+[role="treeitem"].hover,
+[role="treeitem"] span:hover {
+  background-color: #2B2B2B;
+}
+div.textblck {
+  position: fixed;
+  top: 85px;
+  right: 0;
+  width: 300px;
+  height:%100;
+  border: 2px solid black;
+    margin: 10px 10px 10px 10px;
+  padding: 10px 0 0 10px;
+}
+#myInput {
+  background-image: url('icons/searchicon.svg');
+  background-color: #232323;
+  color: white;
+  background-position: 10px 10px;
+  background-size: 25px 25px;
+  background-repeat: no-repeat;
+  width: 70%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+#last_action{
+visibility: hidden;
+}
+body {
+  background-color: #1C1C1C;
+  color: white;
+}
+a:link {
+  color: green;
+}
+a:visited {
+  color: pink;
+}
+.btn{
+  color: white;
+}
+.btnopen {
+  color: white;
+}
+.colorbtn{
+  color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 80px;
+  height:80px;
+  margin: 10px 10px 10px 10px;
+}

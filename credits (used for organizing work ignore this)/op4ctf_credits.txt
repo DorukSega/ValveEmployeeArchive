@@ -1,0 +1,77 @@
+Half-Life: Opposing Force CTF was brought to you by Gearbox Software
+
+Visit www.gearboxsoftware.com
+
+Credits:
+
+*Production/Direction:
+  Randy Pitchford
+
+*Texture Art, Skins and Hud Icons:
+  Brian Martel
+
+*Character Models, Flags and Power-ups:
+  Stephen Bahl
+  Landon Montgomery
+
+*Sound Effects:
+  Rob Heironimus
+
+*CTF Game Code:
+  Patrick Deupree
+
+*Original Opposing Force Game Code
+  Patrick Deupree
+  John Faulkenbury
+  Steve Jones
+  Sean Reardon
+
+*Additional Programming
+  Sean Cavanaugh
+  Chris McArthur
+
+*Concept:
+  Matt Armstrong
+
+*Game Design, Testing and Influence:
+  Matt Armstrong
+  Stephen Bahl
+  Patrick Deupree
+  Rob Heironimus
+  Brian Martel
+  David Mertz
+  Landon Montgomery
+  Stephen Palmer
+  Randy Pitchford
+  Sean Reardon
+  Mike Wardwell
+
+*Level Designers:
+  op4ctf_biodomes   - David Mertz (adapted for CTF from original map created by David Mertz)
+  op4ctf_chasm      - Matt Armstrong
+  op4ctf_crash      - Randy Pitchford (adapted for CTF from original map created by Mike Wardwell)
+  op4ctf_gunyard    - Matt Armstrong
+  op4ctf_mortar     - Mike Wardwell
+  op4ctf_repent     - Matt Armstrong (adapted for CTF from original map created by The Levelord)
+  op4ctf_wonderland - Stephen Palmer
+  op4ctf_xendance   - Matt Armstrong (adapted for CTF from original map created by David Kelvin)
+  op4ctf_dam        - Brian Hess
+  op4ctf_hairball   - Matt Armstrong (created for demonstration purposes by Matt and it just caught on)
+  op4ctf_power      - David Mertz (adapted from Blue Shift from original map created by David Mertz)
+  op4cp_park        - Matt Armstrong (adapted for CP from original map created by Tom Mustaine)
+
+*HTML Manual:
+  Stephen Bahl
+  Patrick Deupree
+  Brian Martel
+  Landon Montgomery
+  Randy Pitchford
+
+*Worldcraft .fgd Information and Tutorials
+  Matt Armstrong
+  David Mertz
+  Mike Wardwell
+
+*Special Thanks
+  Sierra Studios QA Group
+  Valve Software
