@@ -408,3 +408,63 @@ function jaypdesc(){ //Jay Pinkerton
 	document.getElementById("website").href = "https://www.linkedin.com/in/jay-pinkerton-1b65352/";
 	document.getElementById("website").innerHTML = "LinkedIn";
 }
+function mattwooddesc(){ //Matt T. Wood
+	document.getElementById("profilepic").src = "developers/matttwood.jpg";
+	document.getElementById("Name").innerHTML = "Matt T. Wood";
+	document.getElementById("work").innerHTML = "Double Dagger Studio";
+	document.getElementById("Desc").innerHTML = "Matt was a Level Designer at Valve. He was the founding member of Counter-Strike: Global Offensive and worked on projects such as Left 4 Dead, Portal and Half-Life. He is currently working on a indie game project called Little Kitty Big City.";
+	document.getElementById("mail").href = "mailto:matttwood@doubledaggerstudio.com";
+	document.getElementById("mail").innerHTML = "matttwood@doubledaggerstudio.com";
+	document.getElementById("twitter").href = "https://twitter.com/matttwood";
+	document.getElementById("twitter").innerHTML = "Twitter";
+	document.getElementById("website").href = "https://www.doubledaggerstudio.com/";
+	document.getElementById("website").innerHTML = "Website";
+}
+function viktordesc(){ //Viktor Antonov
+	document.getElementById("profilepic").src = "developers/viktor.jpg";
+	document.getElementById("Name").innerHTML = "Viktor Antonov";
+	document.getElementById("work").innerHTML = "Retired";
+	document.getElementById("Desc").innerHTML = "Viktor Antonov was a Art Designer at Valve. He was the main art designer at projects such as Half-Life 2, Dishonored and Crossing. He was very influential to the Game and Art Design Industry, mostly focusing on design styles that represent the effect of industrialism and modernism.";
+	document.getElementById("mail").href = "";
+	document.getElementById("mail").innerHTML = "Not Given";
+	document.getElementById("twitter").href = "https://twitter.com/VAntonov72";
+	document.getElementById("twitter").innerHTML = "Twitter";
+	document.getElementById("website").href = "https://www.linkedin.com/in/viktor-antonov-7bb500167/";
+	document.getElementById("website").innerHTML = "LinkedIn";
+}
+function adriandesc(){ //Adrian Finol
+	document.getElementById("profilepic").src = "developers/adrian.jpg";
+	document.getElementById("Name").innerHTML = "Adrian Finol";
+	document.getElementById("work").innerHTML = "Valve";
+	document.getElementById("Desc").innerHTML = "Adrian Finol is a senior programmer at Valve Corporation. He is known with his work on Dota 2.";
+	document.getElementById("mail").href = "";
+	document.getElementById("mail").innerHTML = "Not Given";
+	document.getElementById("twitter").href = "https://twitter.com/Flargenstow";
+	document.getElementById("twitter").innerHTML = "Twitter";
+	document.getElementById("website").href = "";
+	document.getElementById("website").innerHTML = "Not Given";
+}
+function aarondesc(){ //Aaron Barber
+	document.getElementById("profilepic").src = "developers/aaron.jpg";
+	document.getElementById("Name").innerHTML = "Aaron Barber";
+	document.getElementById("work").innerHTML = "Valve";
+	document.getElementById("Desc").innerHTML = "Aaron got his first taste of creating 3D environments while he was studying engineering at UCLA. He was building VRML websites for the university, and also started designing levels for several internet mods. His level design skills landed him a job at Xatrix Entertainment where he worked on Redneck Rampage, Quake 2, and Kingpin before joining Valve in 1999 to work on Half-Life 2.";
+	document.getElementById("mail").href = "https://www.valvesoftware.com/tr/contact?contact-person=Aaron%20Barber";
+	document.getElementById("mail").innerHTML = "Mail";
+	document.getElementById("twitter").href = "";
+	document.getElementById("twitter").innerHTML = "Not Given";
+	document.getElementById("website").href = "https://www.linkedin.com/in/aaron-barber-2115b1";
+	document.getElementById("website").innerHTML = "Linkedin";
+}
+function kerryddesc(){ //Kerry Davis
+	document.getElementById("profilepic").src = "developers/kerrydavis.jpg";
+	document.getElementById("Name").innerHTML = "Kerry Davis";
+	document.getElementById("work").innerHTML = "Valve";
+	document.getElementById("Desc").innerHTML = "";
+	document.getElementById("mail").href = "";
+	document.getElementById("mail").innerHTML = "Not Given";
+	document.getElementById("twitter").href = "";
+	document.getElementById("twitter").innerHTML = "Not Given";
+	document.getElementById("website").href = "";
+	document.getElementById("website").innerHTML = "Not Given";
+}
